@@ -1,8 +1,8 @@
-IRELANDS RUGGED COAST YIELDS
+### IRELANDS RUGGED COAST YIELDS
 
 # Priceless Relics of the Spanish Armada
 
-### by ROBERT STENUIT
+#### by ROBERT STENUIT
 
 *Illustrations by National Geographic*
 
